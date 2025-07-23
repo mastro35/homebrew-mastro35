@@ -1,8 +1,8 @@
 class Dc2 < Formula
   desc "Dave's (RPN) Calculator - simple RPN calculator for terminal"
   homepage "https://github.com/mastro35/dc2"
-  url "https://github.com/mastro35/dc2/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "ce8abc37ad013c1153288b451d56c7273128acd9751df95ad154bceb22a78428"
+  url "https://github.com/mastro35/dc2/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "f0c1bf679fca21f00233473b517c5e5f5b029d83cca99201f904615f9f4a9e78"
   license "GPL-2.0-or-later"
 
   def install
