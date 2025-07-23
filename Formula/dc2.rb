@@ -8,6 +8,7 @@ class Dc2 < Formula
   def install
     system ENV.cc, "dc2.c", "-o", "dc2", "-lm"
     bin.install "dc2"
+    man1.install "dc2.1"
   end
 
   test do
