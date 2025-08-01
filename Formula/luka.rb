@@ -1,4 +1,4 @@
-class luka < Formula
+class Luka < Formula
   desc "luka - a simple RPN calculator for terminal"
   homepage "https://github.com/mastro35/luka"
   url "https://github.com/mastro35/luka/archive/refs/tags/v0.4.0.tar.gz"
